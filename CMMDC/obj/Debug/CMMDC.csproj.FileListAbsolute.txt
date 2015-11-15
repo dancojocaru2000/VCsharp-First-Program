@@ -1,0 +1,9 @@
+C:\Users\Dan\Desktop\Dezvoltare\VC#\CMMDC\CMMDC\bin\Debug\CMMDC.exe.config
+C:\Users\Dan\Desktop\Dezvoltare\VC#\CMMDC\CMMDC\bin\Debug\CMMDC.exe
+C:\Users\Dan\Desktop\Dezvoltare\VC#\CMMDC\CMMDC\bin\Debug\CMMDC.pdb
+C:\Users\Dan\Desktop\Dezvoltare\VC#\CMMDC\CMMDC\obj\Debug\CMMDC.Form1.resources
+C:\Users\Dan\Desktop\Dezvoltare\VC#\CMMDC\CMMDC\obj\Debug\CMMDC.Properties.Resources.resources
+C:\Users\Dan\Desktop\Dezvoltare\VC#\CMMDC\CMMDC\obj\Debug\CMMDC.csproj.GenerateResource.Cache
+C:\Users\Dan\Desktop\Dezvoltare\VC#\CMMDC\CMMDC\obj\Debug\CMMDC.exe
+C:\Users\Dan\Desktop\Dezvoltare\VC#\CMMDC\CMMDC\obj\Debug\CMMDC.pdb
+C:\Users\Dan\Desktop\Dezvoltare\VC#\CMMDC\CMMDC\obj\Debug\CMMDC.csprojResolveAssemblyReference.cache
